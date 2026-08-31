@@ -6,15 +6,6 @@
   ],
   "abp": [
     {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "23 113202 BLD",
-      "status": "Inspection",
-      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
-    },
-    {
       "num": "11",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -58,6 +49,15 @@
       "permit": "21 246581 HVA",
       "status": "Revision Issued",
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
+    },
+    {
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "23 113202 BLD",
+      "status": "Inspection",
+      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
       "num": "42",
@@ -204,15 +204,6 @@
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
-      "num": "94",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "26 150725 BLD",
-      "status": "Permit Issued",
-      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
-    },
-    {
       "num": "11",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -229,6 +220,15 @@
       "permit": "23 196087 HVA",
       "status": "Inspection",
       "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
+    },
+    {
+      "num": "94",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "26 150725 BLD",
+      "status": "Permit Issued",
+      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
       "num": "105",
@@ -258,6 +258,15 @@
       "desc": "Plumbing - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
+      "num": "104",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "24 120983 BLD",
+      "status": "Inspection",
+      "desc": "Proposal for below grade entrance"
+    },
+    {
       "num": "15",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -274,15 +283,6 @@
       "permit": "20 171510 STS",
       "status": "Inspection",
       "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
-    },
-    {
-      "num": "104",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "24 120983 BLD",
-      "status": "Inspection",
-      "desc": "Proposal for below grade entrance"
     },
     {
       "num": "10",
@@ -366,15 +366,6 @@
       "desc": "Proposal to construct an enclosed deck"
     },
     {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "15 189857 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
-    },
-    {
       "num": "105",
       "street": "ZAPH",
       "type": "AVE",
@@ -382,6 +373,15 @@
       "permit": "23 113202 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
     },
     {
       "num": "15",
@@ -857,186 +857,5 @@
       "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
     }
   ],
-  "ltb": [
-    {
-      "num": "201",
-      "street": "ZIA DODDA",
-      "type": "CRES",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "300",
-      "street": "ZOO PARK",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "WASAGA BEACH",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "34",
-      "street": "ZELDA",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "34",
-      "street": "ZELDA",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "15110",
-      "street": "ZONE CENTRE",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BOTHWELL",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "15110",
-      "street": "ZONE CENTRE",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BOTHWELL",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "28",
-      "street": "ZEBRA TRAIL",
-      "type": "",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "19",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "unit": "",
-      "city": "SCARBOROUGH",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "106",
-      "street": "ZIMA",
-      "type": "CRES",
-      "dir": "",
-      "unit": "",
-      "city": "BRADFORD",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "731",
-      "street": "ZERMATT",
-      "type": "DR",
-      "dir": "",
-      "unit": "",
-      "city": "WATERLOO",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "1007",
-      "street": "ZION ROAD",
-      "type": "",
-      "dir": "",
-      "unit": "",
-      "city": "Little Britain",
-      "province": "Ontario",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "96",
-      "street": "ZINNIA",
-      "type": "PL",
-      "dir": "",
-      "unit": "",
-      "city": "WOODBRIDGE",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    }
-  ]
+  "ltb": []
 }
