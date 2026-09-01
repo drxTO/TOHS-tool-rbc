@@ -213,15 +213,6 @@
       "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
-      "num": "10",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "23 196087 HVA",
-      "status": "Inspection",
-      "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
-    },
-    {
       "num": "94",
       "street": "ZAPH",
       "type": "AVE",
@@ -229,6 +220,15 @@
       "permit": "26 150725 BLD",
       "status": "Permit Issued",
       "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
+    },
+    {
+      "num": "10",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "23 196087 HVA",
+      "status": "Inspection",
+      "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
       "num": "105",
@@ -258,15 +258,6 @@
       "desc": "Plumbing - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
-      "num": "104",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "24 120983 BLD",
-      "status": "Inspection",
-      "desc": "Proposal for below grade entrance"
-    },
-    {
       "num": "15",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -274,6 +265,15 @@
       "permit": "16 225384 BLD",
       "status": "Inspection",
       "desc": "Construct an attached carport at the side of the dwelling and a new wood deck in the rear yard"
+    },
+    {
+      "num": "104",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "24 120983 BLD",
+      "status": "Inspection",
+      "desc": "Proposal for below grade entrance"
     },
     {
       "num": "30",
@@ -339,13 +339,22 @@
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
       "dir": "",
-      "permit": "23 227081 HVA",
+      "permit": "23 113202 HVA",
       "status": "Inspection",
-      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
+      "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
     },
     {
       "num": "30",
@@ -366,22 +375,13 @@
       "desc": "Proposal to construct an enclosed deck"
     },
     {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
       "dir": "",
-      "permit": "23 113202 HVA",
+      "permit": "23 227081 HVA",
       "status": "Inspection",
-      "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
-    },
-    {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "15 189857 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
       "num": "15",
@@ -753,10 +753,30 @@
       "postal": "M8Z",
       "unit": "2801",
       "reg": "STR-2608-GSBBVT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2805",
+      "reg": "STR-2608-JGHBVZ"
     }
   ],
   "mth": [],
   "pdn": [
+    {
+      "num": "35",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.61996597185481,
+      "lng": -79.52133570832542,
+      "num_app": "20 102991 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jUEBNVvlpB4xQuvKh%2Bwh5w%3D%3D",
+      "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
+    },
     {
       "num": "15",
       "street": "ZACHARY",
@@ -844,18 +864,203 @@
       "num_app": "10 170538 NNY 15 SB",
       "url": "",
       "desc": "Proposed Phase 1 Subdivision of the Lawrence Heights Redevelopment includes the provision of new pulbic streets, and a public park.  Cross Reference OPA/Rezoning file 10 140382 NNY 15 OZ and Rental Housing Demolition File 10 140409 NNY 00 RH."
-    },
-    {
-      "num": "35",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.61996597185481,
-      "lng": -79.52133570832542,
-      "num_app": "20 102991 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jUEBNVvlpB4xQuvKh%2Bwh5w%3D%3D",
-      "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
     }
   ],
-  "ltb": []
+  "ltb": [
+    {
+      "num": "201",
+      "street": "ZIA DODDA",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "city": "BRAMPTON",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "300",
+      "street": "ZOO PARK",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "WASAGA BEACH",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "34",
+      "street": "ZELDA",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "BRAMPTON",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "34",
+      "street": "ZELDA",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "BRAMPTON",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "15110",
+      "street": "ZONE CENTRE",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "BOTHWELL",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "15110",
+      "street": "ZONE CENTRE",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "BOTHWELL",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "28",
+      "street": "ZEBRA TRAIL",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "city": "BRAMPTON",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "19",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "city": "SCARBOROUGH",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "106",
+      "street": "ZIMA",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "city": "BRADFORD",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "731",
+      "street": "ZERMATT",
+      "type": "DR",
+      "dir": "",
+      "unit": "",
+      "city": "WATERLOO",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "1007",
+      "street": "ZION ROAD",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "city": "Little Britain",
+      "province": "Ontario",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "96",
+      "street": "ZINNIA",
+      "type": "PL",
+      "dir": "",
+      "unit": "",
+      "city": "WOODBRIDGE",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "294",
+      "street": "ZENITH PVT",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "city": "NEPEAN",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    }
+  ]
 }
