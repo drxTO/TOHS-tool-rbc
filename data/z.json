@@ -15,6 +15,15 @@
       "desc": "Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
     },
     {
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "23 113202 BLD",
+      "status": "Inspection",
+      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
       "num": "11",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -49,15 +58,6 @@
       "permit": "21 246581 HVA",
       "status": "Revision Issued",
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
-    },
-    {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "23 113202 BLD",
-      "status": "Inspection",
-      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
       "num": "42",
@@ -195,15 +195,6 @@
       "desc": "Plumbing  - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility. rev. 01: Mechanical drawings describing revisions to the Pool drainage,reflecting amendments to satisfy the City Plumbing Inspector request"
     },
     {
-      "num": "39",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "19 149046 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
-    },
-    {
       "num": "11",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -211,6 +202,15 @@
       "permit": "26 196556 BLD",
       "status": "Examiner's Notice Sent",
       "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
+    },
+    {
+      "num": "39",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "19 149046 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
       "num": "94",
@@ -267,15 +267,6 @@
       "desc": "Construct an attached carport at the side of the dwelling and a new wood deck in the rear yard"
     },
     {
-      "num": "104",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "24 120983 BLD",
-      "status": "Inspection",
-      "desc": "Proposal for below grade entrance"
-    },
-    {
       "num": "30",
       "street": "ZORRA",
       "type": "ST",
@@ -283,6 +274,15 @@
       "permit": "20 171510 STS",
       "status": "Inspection",
       "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
+    },
+    {
+      "num": "104",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "24 120983 BLD",
+      "status": "Inspection",
+      "desc": "Proposal for below grade entrance"
     },
     {
       "num": "10",
@@ -321,15 +321,6 @@
       "desc": "REVISION - revised fire smoke damper locationsHVAC - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
     },
     {
-      "num": "107",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "14 123067 BLD",
-      "status": "Inspection",
-      "desc": "repair fire damage to garage, second floor structural work"
-    },
-    {
       "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -339,22 +330,22 @@
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "105",
+      "num": "107",
       "street": "ZAPH",
       "type": "AVE",
       "dir": "",
-      "permit": "23 113202 HVA",
+      "permit": "14 123067 BLD",
       "status": "Inspection",
-      "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+      "desc": "repair fire damage to garage, second floor structural work"
     },
     {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
       "dir": "",
-      "permit": "15 189857 HVA",
+      "permit": "23 227081 HVA",
       "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
       "num": "30",
@@ -366,6 +357,15 @@
       "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
     },
     {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+    },
+    {
       "num": "8",
       "street": "ZEALAND",
       "type": "RD",
@@ -375,13 +375,13 @@
       "desc": "Proposal to construct an enclosed deck"
     },
     {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
       "dir": "",
-      "permit": "23 227081 HVA",
+      "permit": "23 113202 HVA",
       "status": "Inspection",
-      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
+      "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
       "num": "15",
@@ -767,17 +767,6 @@
   "mth": [],
   "pdn": [
     {
-      "num": "35",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.61996597185481,
-      "lng": -79.52133570832542,
-      "num_app": "20 102991 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jUEBNVvlpB4xQuvKh%2Bwh5w%3D%3D",
-      "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
-    },
-    {
       "num": "15",
       "street": "ZACHARY",
       "type": "CRT",
@@ -864,6 +853,17 @@
       "num_app": "10 170538 NNY 15 SB",
       "url": "",
       "desc": "Proposed Phase 1 Subdivision of the Lawrence Heights Redevelopment includes the provision of new pulbic streets, and a public park.  Cross Reference OPA/Rezoning file 10 140382 NNY 15 OZ and Rental Housing Demolition File 10 140409 NNY 00 RH."
+    },
+    {
+      "num": "35",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.61996597185481,
+      "lng": -79.52133570832542,
+      "num_app": "20 102991 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jUEBNVvlpB4xQuvKh%2Bwh5w%3D%3D",
+      "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
     }
   ],
   "ltb": [
