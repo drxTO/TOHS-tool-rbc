@@ -11,44 +11,7 @@
       "desc": ""
     }
   ],
-  "str": [
-    {
-      "num": "119",
-      "street": "1/2 MAPLEWOOD",
-      "type": "AVE",
-      "dir": "",
-      "postal": "M6C",
-      "unit": "",
-      "reg": "STR-2111-HYVRVM"
-    },
-    {
-      "num": "2",
-      "street": "1/2 PALMERSTON",
-      "type": "AVE",
-      "dir": "",
-      "postal": "M6J",
-      "unit": "",
-      "reg": "STR-2405-JGDKVZ"
-    },
-    {
-      "num": "349",
-      "street": "1/2 CRAWFORD",
-      "type": "ST",
-      "dir": "",
-      "postal": "M6J",
-      "unit": "Lower",
-      "reg": "STR-2411-FVMBPR"
-    },
-    {
-      "num": "5",
-      "street": "1/2 MACKENZIE",
-      "type": "CRES",
-      "dir": "",
-      "postal": "M6J",
-      "unit": "",
-      "reg": "STR-2605-GZRLBV"
-    }
-  ],
+  "str": [],
   "mth": [
     {
       "num": "283",
