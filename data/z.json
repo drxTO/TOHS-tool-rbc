@@ -267,15 +267,6 @@
       "desc": "Construct an attached carport at the side of the dwelling and a new wood deck in the rear yard"
     },
     {
-      "num": "104",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "24 120983 BLD",
-      "status": "Inspection",
-      "desc": "Proposal for below grade entrance"
-    },
-    {
       "num": "30",
       "street": "ZORRA",
       "type": "ST",
@@ -283,6 +274,15 @@
       "permit": "20 171510 STS",
       "status": "Inspection",
       "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
+    },
+    {
+      "num": "104",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "24 120983 BLD",
+      "status": "Inspection",
+      "desc": "Proposal for below grade entrance"
     },
     {
       "num": "10",
@@ -339,15 +339,6 @@
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "30",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "20 171510 BLD",
-      "status": "Inspection",
-      "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
-    },
-    {
       "num": "8",
       "street": "ZEALAND",
       "type": "RD",
@@ -366,13 +357,13 @@
       "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
+      "num": "30",
+      "street": "ZORRA",
+      "type": "ST",
       "dir": "",
-      "permit": "15 189857 HVA",
+      "permit": "20 171510 BLD",
       "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+      "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
     },
     {
       "num": "105",
@@ -382,6 +373,15 @@
       "permit": "23 113202 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
     },
     {
       "num": "15",
@@ -402,9 +402,381 @@
       "desc": "Proposal for interior alterations & conversion of a pitch roof to a flat roof for a sales centre"
     }
   ],
-  "str": [],
+  "str": [
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "1410",
+      "reg": "STR-2310-FYTKVR"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2706",
+      "reg": "STR-2311-GXZPHV"
+    },
+    {
+      "num": "68",
+      "street": "ZEZEL",
+      "type": "WAY",
+      "dir": "",
+      "postal": "M1P",
+      "unit": "",
+      "reg": "STR-2312-HMYHHX"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "109",
+      "reg": "STR-2511-FLMPPP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2001",
+      "reg": "STR-2409-HWZBPY"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2204",
+      "reg": "STR-2504-FFMHPP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "102",
+      "reg": "STR-2510-GTMPPV"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "608",
+      "reg": "STR-2510-HZMPPZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2511",
+      "reg": "STR-2510-GDRBPS"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "603",
+      "reg": "STR-2510-HZPVPZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "114",
+      "reg": "STR-2510-HSKBPY"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "506",
+      "reg": "STR-2510-HMRBPX"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2007",
+      "reg": "STR-2511-GBLHPR"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3304",
+      "reg": "STR-2511-GJSHPS"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3404",
+      "reg": "STR-2511-FFBVPP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3306",
+      "reg": "STR-2511-HZYHPZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3407",
+      "reg": "STR-2512-JFBVPZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "504",
+      "reg": "STR-2601-HZPYBZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "411",
+      "reg": "STR-2602-FDVYBP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3108",
+      "reg": "STR-2602-HXYLBY"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3008",
+      "reg": "STR-2603-FHTVPP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "517",
+      "reg": "STR-2603-GRRHPT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2107",
+      "reg": "STR-2603-GVFPPV"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "323",
+      "reg": "STR-2604-GWTVPV"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "615",
+      "reg": "STR-2604-FTGVPQ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "616",
+      "reg": "STR-2604-FLRHPP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2610",
+      "reg": "STR-2604-FTXHPQ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "630",
+      "reg": "STR-2604-GCDHPR"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "1007",
+      "reg": "STR-2604-HSFSBY"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3303",
+      "reg": "STR-2605-GPWFBT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "613",
+      "reg": "STR-2605-GMRLBT"
+    },
+    {
+      "num": "99",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "postal": "M1C",
+      "unit": "",
+      "reg": "STR-2605-FPKLBQ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "612",
+      "reg": "STR-2606-GLHBVT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "320",
+      "reg": "STR-2606-JBVBVZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2403",
+      "reg": "STR-2607-GQPBVT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "103",
+      "reg": "STR-2607-FWRPVR"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "614",
+      "reg": "STR-2608-FZFVVR"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2801",
+      "reg": "STR-2608-GSBBVT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "2805",
+      "reg": "STR-2608-JGHBVZ"
+    }
+  ],
   "mth": [],
   "pdn": [
+    {
+      "num": "35",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.61996597185481,
+      "lng": -79.52133570832542,
+      "num_app": "20 102991 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jUEBNVvlpB4xQuvKh%2Bwh5w%3D%3D",
+      "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
+    },
     {
       "num": "15",
       "street": "ZACHARY",
@@ -445,17 +817,6 @@
       "dir": "",
       "lat": 43.72246403019544,
       "lng": -79.44825037503331,
-      "num_app": "10 170538 NNY 15 SB",
-      "url": "",
-      "desc": "Proposed Phase 1 Subdivision of the Lawrence Heights Redevelopment includes the provision of new pulbic streets, and a public park.  Cross Reference OPA/Rezoning file 10 140382 NNY 15 OZ and Rental Housing Demolition File 10 140409 NNY 00 RH."
-    },
-    {
-      "num": "31-45",
-      "street": "ZACHARY",
-      "type": "CRT",
-      "dir": "",
-      "lat": 43.72246403019544,
-      "lng": -79.44825037503331,
       "num_app": "17 112623 NNY 15 SB",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
       "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
@@ -472,15 +833,15 @@
       "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
     },
     {
-      "num": "1-11",
+      "num": "31-45",
       "street": "ZACHARY",
       "type": "CRT",
       "dir": "",
-      "lat": 43.722760250151936,
-      "lng": -79.44752822793937,
-      "num_app": "17 112623 NNY 15 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
-      "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
+      "lat": 43.72246403019544,
+      "lng": -79.44825037503331,
+      "num_app": "10 170538 NNY 15 SB",
+      "url": "",
+      "desc": "Proposed Phase 1 Subdivision of the Lawrence Heights Redevelopment includes the provision of new pulbic streets, and a public park.  Cross Reference OPA/Rezoning file 10 140382 NNY 15 OZ and Rental Housing Demolition File 10 140409 NNY 00 RH."
     },
     {
       "num": "1-11",
@@ -494,212 +855,16 @@
       "desc": "Proposed Phase 1 Subdivision of the Lawrence Heights Redevelopment includes the provision of new pulbic streets, and a public park.  Cross Reference OPA/Rezoning file 10 140382 NNY 15 OZ and Rental Housing Demolition File 10 140409 NNY 00 RH."
     },
     {
-      "num": "35",
-      "street": "ZORRA",
-      "type": "ST",
+      "num": "1-11",
+      "street": "ZACHARY",
+      "type": "CRT",
       "dir": "",
-      "lat": 43.61996597185481,
-      "lng": -79.52133570832542,
-      "num_app": "20 102991 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jUEBNVvlpB4xQuvKh%2Bwh5w%3D%3D",
-      "desc": "Phase 3 of IQ development consisting of 915 units housed in three towers connected via a three-storey podium. The towers are proposed at 19, 26 and 42 storeys. A total of 773 parking spaces are proposed. A 284 square metre Community Space is also proposed at-grade."
+      "lat": 43.722760250151936,
+      "lng": -79.44752822793937,
+      "num_app": "17 112623 NNY 15 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
+      "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
     }
   ],
-  "ltb": [
-    {
-      "num": "201",
-      "street": "ZIA DODDA",
-      "type": "CRES",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "300",
-      "street": "ZOO PARK",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "WASAGA BEACH",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "34",
-      "street": "ZELDA",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "34",
-      "street": "ZELDA",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "15110",
-      "street": "ZONE CENTRE",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BOTHWELL",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "15110",
-      "street": "ZONE CENTRE",
-      "type": "RD",
-      "dir": "",
-      "unit": "",
-      "city": "BOTHWELL",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "28",
-      "street": "ZEBRA TRAIL",
-      "type": "",
-      "dir": "",
-      "unit": "",
-      "city": "BRAMPTON",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "19",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "unit": "",
-      "city": "SCARBOROUGH",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "106",
-      "street": "ZIMA",
-      "type": "CRES",
-      "dir": "",
-      "unit": "",
-      "city": "BRADFORD",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "731",
-      "street": "ZERMATT",
-      "type": "DR",
-      "dir": "",
-      "unit": "",
-      "city": "WATERLOO",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "1007",
-      "street": "ZION ROAD",
-      "type": "",
-      "dir": "",
-      "unit": "",
-      "city": "Little Britain",
-      "province": "Ontario",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "96",
-      "street": "ZINNIA",
-      "type": "PL",
-      "dir": "",
-      "unit": "",
-      "city": "WOODBRIDGE",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    },
-    {
-      "num": "294",
-      "street": "ZENITH PVT",
-      "type": "",
-      "dir": "",
-      "unit": "",
-      "city": "NEPEAN",
-      "province": "ON",
-      "postal": "",
-      "fileNumber": "",
-      "applicationType": "",
-      "documentType": "",
-      "orderDate": "",
-      "documentUrl": ""
-    }
-  ]
+  "ltb": []
 }
