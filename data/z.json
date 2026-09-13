@@ -6,24 +6,6 @@
   ],
   "abp": [
     {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "23 227081 BLD",
-      "status": "Inspection",
-      "desc": "Proposal for interior alterations, finish basement and second floor addition"
-    },
-    {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "23 227081 BLD",
-      "status": "Revision Issued",
-      "desc": "REVISION - DUE TO GEOTECHNICAL Report No. : 2024-R-278 by SLC Soils Consulting LTD FOR GARAGE UNDERPINNING = 12.74 LINEAR METRES, EX HOUSE UNDERPINNING = 50.74"
-    },
-    {
       "num": "105",
       "street": "ZAPH",
       "type": "AVE",
@@ -76,6 +58,24 @@
       "permit": "21 246581 HVA",
       "status": "Revision Issued",
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
+    },
+    {
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "23 227081 BLD",
+      "status": "Inspection",
+      "desc": "Proposal for interior alterations, finish basement and second floor addition"
+    },
+    {
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "23 227081 BLD",
+      "status": "Revision Issued",
+      "desc": "REVISION - DUE TO GEOTECHNICAL Report No. : 2024-R-278 by SLC Soils Consulting LTD FOR GARAGE UNDERPINNING = 12.74 LINEAR METRES, EX HOUSE UNDERPINNING = 50.74"
     },
     {
       "num": "30",
@@ -204,6 +204,15 @@
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
+      "num": "11",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "26 196556 BLD",
+      "status": "Examiner's Notice Sent",
+      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
+    },
+    {
       "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -220,15 +229,6 @@
       "permit": "26 150725 BLD",
       "status": "Permit Issued",
       "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
-    },
-    {
-      "num": "11",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "26 196556 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
       "num": "105",
