@@ -6,15 +6,6 @@
   ],
   "abp": [
     {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "15 189857 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
-    },
-    {
       "num": "11",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -42,6 +33,15 @@
       "desc": "Plumbing - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
     },
     {
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "23 113202 BLD",
+      "status": "Inspection",
+      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
       "num": "11",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -58,15 +58,6 @@
       "permit": "21 246581 HVA",
       "status": "Revision Issued",
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
-    },
-    {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "23 113202 BLD",
-      "status": "Inspection",
-      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
       "num": "42",
@@ -204,6 +195,15 @@
       "desc": "Plumbing  - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility. rev. 01: Mechanical drawings describing revisions to the Pool drainage,reflecting amendments to satisfy the City Plumbing Inspector request"
     },
     {
+      "num": "11",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "26 196556 BLD",
+      "status": "Examiner's Notice Sent",
+      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
+    },
+    {
       "num": "39",
       "street": "ZENITH",
       "type": "DR",
@@ -229,15 +229,6 @@
       "permit": "23 196087 HVA",
       "status": "Inspection",
       "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
-    },
-    {
-      "num": "11",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "26 196556 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
       "num": "105",
@@ -348,15 +339,6 @@
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "8",
-      "street": "ZEALAND",
-      "type": "RD",
-      "dir": "",
-      "permit": "25 229438 BLD",
-      "status": "Inspection",
-      "desc": "Proposal to construct an enclosed deck"
-    },
-    {
       "num": "42",
       "street": "ZENITH",
       "type": "DR",
@@ -382,6 +364,24 @@
       "permit": "23 113202 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
+      "num": "8",
+      "street": "ZEALAND",
+      "type": "RD",
+      "dir": "",
+      "permit": "25 229438 BLD",
+      "status": "Inspection",
+      "desc": "Proposal to construct an enclosed deck"
+    },
+    {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
     },
     {
       "num": "15",
