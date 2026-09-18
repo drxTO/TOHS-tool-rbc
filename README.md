@@ -1,10 +1,10 @@
-# TOHS Rental Background Check (RBC) Data Pipeline
+# TOHS Rental Address Check Data Pipeline
 
 This repository was previously named "TOHS-city-intel" / "City Intel." That
-name is retired — this pipeline and the product it powers are now called
-**Rental Background Check (RBC)** only. See
-`docs/TOHS-City-Intel-Data-Pipeline-Spec.md` in the main `tohs-systemv1`
-repository for the full naming-decision history and rebuild rationale.
+name is retired. The public product this pipeline powers is now called
+**Rental Address Check**. The repository keeps its `TOHS-tool-rbc` name as a
+stable internal identifier so the daily workflow and public CDN URLs do not
+break.
 
 ## What this pipeline does
 
@@ -17,7 +17,7 @@ address-keyed JSON files under `data/`, partitioned by the first letter of
 the street name (`data/a.json` … `data/z.json`, plus `data/0-9.json` for
 digit-led street names).
 
-The **Rental Background Check** public tool (and any other consumer) reads
+The **Rental Address Check** public tool (and any other consumer) reads
 these JSON files directly rather than querying multiple government APIs
 live on every user request — this pipeline does the address-reconciliation
 work once, offline, on a schedule.

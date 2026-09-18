@@ -1,7 +1,7 @@
 {
   "name": "tohs-rbc-pipeline",
   "version": "0.1.0",
-  "description": "Rental Background Check (RBC) daily data pipeline: fetches Toronto Open Data and Ontario LTB public records, normalizes addresses, and commits address-keyed JSON shards.",
+  "description": "Rental Address Check daily data pipeline: fetches Toronto Open Data and Ontario LTB public records, normalizes addresses, and commits address-keyed JSON shards.",
   "private": true,
   "type": "commonjs",
   "license": "MIT",

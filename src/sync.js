@@ -10,7 +10,7 @@ const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
 // Planned Developments X/Y conversion. Toronto's PDN dataset publishes
 // coordinates in Toronto MTM Zone 10 (NAD27); the RBC front-end map
-// (Webtools/Rental Background Checks/cityintel.html, cityintel-2.html)
+// (the archived cityintel.html and cityintel-2.html prototypes)
 // plots pdn.lat/pdn.lng directly with Leaflet and does a 150m Haversine
 // proximity check against the selected address, so these must be
 // standard WGS84 lat/lng, not raw MTM X/Y. Same projection strings as the

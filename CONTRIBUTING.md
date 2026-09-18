@@ -1,6 +1,6 @@
 # Contributing to the RBC Data Pipeline
 
-Thanks for helping maintain the Rental Background Check (RBC) data
+Thanks for helping maintain the Rental Address Check data
 pipeline. This document covers how to propose a new data source, what
 tests are required, and one hard privacy rule every contribution must
 follow.
