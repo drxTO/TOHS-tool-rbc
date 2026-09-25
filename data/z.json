@@ -195,6 +195,15 @@
       "desc": "Plumbing  - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility. rev. 01: Mechanical drawings describing revisions to the Pool drainage,reflecting amendments to satisfy the City Plumbing Inspector request"
     },
     {
+      "num": "15",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "26 240981 PLB",
+      "status": "Under Review",
+      "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
+    },
+    {
       "num": "39",
       "street": "ZENITH",
       "type": "DR",
@@ -204,13 +213,13 @@
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
-      "num": "15",
-      "street": "ZENITH",
-      "type": "DR",
+      "num": "11",
+      "street": "ZAHARIAS",
+      "type": "CRT",
       "dir": "",
-      "permit": "26 240981 PLB",
-      "status": "Pending Parent Folder Review",
-      "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
+      "permit": "26 196556 BLD",
+      "status": "Examiner's Notice Sent",
+      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
       "num": "94",
@@ -220,15 +229,6 @@
       "permit": "26 150725 BLD",
       "status": "Permit Issued",
       "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
-    },
-    {
-      "num": "11",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "26 196556 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
       "num": "10",
@@ -267,15 +267,6 @@
       "desc": "Plumbing - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
-      "num": "30",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "20 171510 STS",
-      "status": "Inspection",
-      "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
-    },
-    {
       "num": "15",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -294,12 +285,21 @@
       "desc": "Proposal for below grade entrance"
     },
     {
+      "num": "30",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "permit": "20 171510 STS",
+      "status": "Inspection",
+      "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
+    },
+    {
       "num": "15",
       "street": "ZENITH",
       "type": "DR",
       "dir": "",
       "permit": "26 240981 BLD",
-      "status": "Not Started - Express",
+      "status": "Issuance Pending",
       "desc": "Proposal for interior alterations to covert basement into legal unit."
     },
     {
@@ -339,15 +339,6 @@
       "desc": "REVISION - revised fire smoke damper locationsHVAC - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
     },
     {
-      "num": "107",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "14 123067 BLD",
-      "status": "Inspection",
-      "desc": "repair fire damage to garage, second floor structural work"
-    },
-    {
       "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -355,6 +346,15 @@
       "permit": "23 196087 BLD",
       "status": "Revision Issued",
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
+    },
+    {
+      "num": "107",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "14 123067 BLD",
+      "status": "Inspection",
+      "desc": "repair fire damage to garage, second floor structural work"
     },
     {
       "num": "30",
@@ -375,6 +375,15 @@
       "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+    },
+    {
       "num": "8",
       "street": "ZEALAND",
       "type": "RD",
@@ -391,15 +400,6 @@
       "permit": "23 113202 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
-    },
-    {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "15 189857 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
     },
     {
       "num": "15",
@@ -535,8 +535,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "3304",
-      "reg": "STR-2511-GJSHPS"
+      "unit": "2007",
+      "reg": "STR-2511-GBLHPR"
     },
     {
       "num": "36",
@@ -544,8 +544,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "2007",
-      "reg": "STR-2511-GBLHPR"
+      "unit": "3304",
+      "reg": "STR-2511-GJSHPS"
     },
     {
       "num": "36",
