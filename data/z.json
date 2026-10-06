@@ -51,6 +51,15 @@
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
     },
     {
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "23 113202 BLD",
+      "status": "Inspection",
+      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
       "num": "42",
       "street": "ZENITH",
       "type": "DR",
@@ -67,15 +76,6 @@
       "permit": "23 227081 BLD",
       "status": "Revision Issued",
       "desc": "REVISION - DUE TO GEOTECHNICAL Report No. : 2024-R-278 by SLC Soils Consulting LTD FOR GARAGE UNDERPINNING = 12.74 LINEAR METRES, EX HOUSE UNDERPINNING = 50.74"
-    },
-    {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "23 113202 BLD",
-      "status": "Inspection",
-      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
       "num": "30",
@@ -204,15 +204,6 @@
       "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
     },
     {
-      "num": "11",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "26 196556 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
-    },
-    {
       "num": "39",
       "street": "ZENITH",
       "type": "DR",
@@ -238,6 +229,15 @@
       "permit": "26 150725 BLD",
       "status": "Permit Issued",
       "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
+    },
+    {
+      "num": "11",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "26 196556 BLD",
+      "status": "Examiner's Notice Sent",
+      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
       "num": "105",
@@ -679,8 +679,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "3303",
-      "reg": "STR-2605-GPWFBT"
+      "unit": "613",
+      "reg": "STR-2605-GMRLBT"
     },
     {
       "num": "36",
@@ -688,8 +688,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "613",
-      "reg": "STR-2605-GMRLBT"
+      "unit": "3303",
+      "reg": "STR-2605-GPWFBT"
     },
     {
       "num": "99",
@@ -706,8 +706,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "3502",
-      "reg": "STR-2606-GWJHVV"
+      "unit": "612",
+      "reg": "STR-2606-GLHBVT"
     },
     {
       "num": "36",
@@ -715,8 +715,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "612",
-      "reg": "STR-2606-GLHBVT"
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
