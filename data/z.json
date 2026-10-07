@@ -204,6 +204,15 @@
       "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
     },
     {
+      "num": "11",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "26 196556 BLD",
+      "status": "Examiner's Notice Sent",
+      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
+    },
+    {
       "num": "39",
       "street": "ZENITH",
       "type": "DR",
@@ -211,15 +220,6 @@
       "permit": "19 149046 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
-    },
-    {
-      "num": "10",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "23 196087 HVA",
-      "status": "Inspection",
-      "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
       "num": "94",
@@ -231,13 +231,13 @@
       "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
-      "num": "11",
+      "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
       "dir": "",
-      "permit": "26 196556 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
+      "permit": "23 196087 HVA",
+      "status": "Inspection",
+      "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
       "num": "105",
@@ -321,15 +321,6 @@
       "desc": "Plumbing - INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "15",
-      "street": "ZAMBRI",
-      "type": "WALK",
-      "dir": "",
-      "permit": "19 116553 PLB",
-      "status": "Inspection",
-      "desc": "Plumbing - Proposal for interior alterations to the basement and ground floor of an existing 1 storey SFD-detached dwelling."
-    },
-    {
       "num": "30",
       "street": "ZORRA",
       "type": "ST",
@@ -337,6 +328,15 @@
       "permit": "20 171510 HVA",
       "status": "Revision Issued",
       "desc": "REVISION - revised fire smoke damper locationsHVAC - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
+    },
+    {
+      "num": "15",
+      "street": "ZAMBRI",
+      "type": "WALK",
+      "dir": "",
+      "permit": "19 116553 PLB",
+      "status": "Inspection",
+      "desc": "Plumbing - Proposal for interior alterations to the basement and ground floor of an existing 1 storey SFD-detached dwelling."
     },
     {
       "num": "107",
@@ -490,15 +490,6 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "2511",
-      "reg": "STR-2510-GDRBPS"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
       "unit": "603",
       "reg": "STR-2510-HZPVPZ"
     },
@@ -564,6 +555,15 @@
       "postal": "M8Z",
       "unit": "3407",
       "reg": "STR-2512-JFBVPZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
@@ -679,8 +679,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "613",
-      "reg": "STR-2605-GMRLBT"
+      "unit": "3303",
+      "reg": "STR-2605-GPWFBT"
     },
     {
       "num": "36",
@@ -688,8 +688,8 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "3303",
-      "reg": "STR-2605-GPWFBT"
+      "unit": "613",
+      "reg": "STR-2605-GMRLBT"
     },
     {
       "num": "99",
@@ -708,15 +708,6 @@
       "postal": "M8Z",
       "unit": "612",
       "reg": "STR-2606-GLHBVT"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "3502",
-      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
@@ -975,6 +966,51 @@
       "dir": "",
       "unit": "",
       "city": "NEPEAN",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "77",
+      "street": "ZUFELT",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "CONSECON",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "300",
+      "street": "ZOO PARK",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "city": "WASAGA BEACH",
+      "province": "ON",
+      "postal": "",
+      "fileNumber": "",
+      "applicationType": "",
+      "documentType": "",
+      "orderDate": "",
+      "documentUrl": ""
+    },
+    {
+      "num": "219",
+      "street": "ZINA",
+      "type": "ST",
+      "dir": "",
+      "unit": "",
+      "city": "ORANGEVILLE",
       "province": "ON",
       "postal": "",
       "fileNumber": "",
