@@ -321,15 +321,6 @@
       "desc": "Plumbing - INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "30",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "20 171510 HVA",
-      "status": "Revision Issued",
-      "desc": "REVISION - revised fire smoke damper locationsHVAC - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
-    },
-    {
       "num": "15",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -339,13 +330,13 @@
       "desc": "Plumbing - Proposal for interior alterations to the basement and ground floor of an existing 1 storey SFD-detached dwelling."
     },
     {
-      "num": "107",
-      "street": "ZAPH",
-      "type": "AVE",
+      "num": "30",
+      "street": "ZORRA",
+      "type": "ST",
       "dir": "",
-      "permit": "14 123067 BLD",
-      "status": "Inspection",
-      "desc": "repair fire damage to garage, second floor structural work"
+      "permit": "20 171510 HVA",
+      "status": "Revision Issued",
+      "desc": "REVISION - revised fire smoke damper locationsHVAC - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
     },
     {
       "num": "10",
@@ -357,13 +348,13 @@
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
+      "num": "107",
+      "street": "ZAPH",
+      "type": "AVE",
       "dir": "",
-      "permit": "23 227081 HVA",
+      "permit": "14 123067 BLD",
       "status": "Inspection",
-      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
+      "desc": "repair fire damage to garage, second floor structural work"
     },
     {
       "num": "30",
@@ -375,13 +366,13 @@
       "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
     },
     {
-      "num": "3",
-      "street": "ZAHARIAS",
-      "type": "CRT",
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
       "dir": "",
-      "permit": "15 189857 HVA",
+      "permit": "23 227081 HVA",
       "status": "Inspection",
-      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
       "num": "8",
@@ -391,6 +382,15 @@
       "permit": "25 229438 BLD",
       "status": "Inspection",
       "desc": "Proposal to construct an enclosed deck"
+    },
+    {
+      "num": "3",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "15 189857 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
     },
     {
       "num": "105",
@@ -562,15 +562,6 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
-      "unit": "3502",
-      "reg": "STR-2606-GWJHVV"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
       "unit": "504",
       "reg": "STR-2601-HZPYBZ"
     },
@@ -699,6 +690,15 @@
       "postal": "M1C",
       "unit": "",
       "reg": "STR-2605-FPKLBQ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
