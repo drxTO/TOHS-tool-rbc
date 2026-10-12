@@ -204,13 +204,13 @@
       "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
     },
     {
-      "num": "39",
-      "street": "ZENITH",
-      "type": "DR",
+      "num": "94",
+      "street": "ZAPH",
+      "type": "AVE",
       "dir": "",
-      "permit": "19 149046 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
+      "permit": "26 150725 BLD",
+      "status": "Permit Issued",
+      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
       "num": "11",
@@ -222,6 +222,15 @@
       "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
+      "num": "39",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "19 149046 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
+    },
+    {
       "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -229,15 +238,6 @@
       "permit": "23 196087 HVA",
       "status": "Inspection",
       "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
-    },
-    {
-      "num": "94",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "26 150725 BLD",
-      "status": "Permit Issued",
-      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
       "num": "105",
@@ -357,15 +357,6 @@
       "desc": "REVISION - interior vaulted & cathedral ceiling on the main floorINTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
     },
     {
-      "num": "30",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "20 171510 BLD",
-      "status": "Inspection",
-      "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
-    },
-    {
       "num": "42",
       "street": "ZENITH",
       "type": "DR",
@@ -373,6 +364,24 @@
       "permit": "23 227081 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
+    },
+    {
+      "num": "8",
+      "street": "ZEALAND",
+      "type": "RD",
+      "dir": "",
+      "permit": "25 229438 BLD",
+      "status": "Inspection",
+      "desc": "Proposal to construct an enclosed deck"
+    },
+    {
+      "num": "30",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "permit": "20 171510 BLD",
+      "status": "Inspection",
+      "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
     },
     {
       "num": "3",
@@ -391,15 +400,6 @@
       "permit": "23 113202 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
-    },
-    {
-      "num": "8",
-      "street": "ZEALAND",
-      "type": "RD",
-      "dir": "",
-      "permit": "25 229438 BLD",
-      "status": "Inspection",
-      "desc": "Proposal to construct an enclosed deck"
     },
     {
       "num": "15",
