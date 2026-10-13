@@ -6,6 +6,33 @@
   ],
   "abp": [
     {
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "23 113202 BLD",
+      "status": "Inspection",
+      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "23 227081 BLD",
+      "status": "Inspection",
+      "desc": "Proposal for interior alterations, finish basement and second floor addition"
+    },
+    {
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "23 227081 BLD",
+      "status": "Revision Issued",
+      "desc": "REVISION - DUE TO GEOTECHNICAL Report No. : 2024-R-278 by SLC Soils Consulting LTD FOR GARAGE UNDERPINNING = 12.74 LINEAR METRES, EX HOUSE UNDERPINNING = 50.74"
+    },
+    {
       "num": "11",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -49,33 +76,6 @@
       "permit": "21 246581 HVA",
       "status": "Revision Issued",
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
-    },
-    {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "23 113202 BLD",
-      "status": "Inspection",
-      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
-    },
-    {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "23 227081 BLD",
-      "status": "Inspection",
-      "desc": "Proposal for interior alterations, finish basement and second floor addition"
-    },
-    {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "23 227081 BLD",
-      "status": "Revision Issued",
-      "desc": "REVISION - DUE TO GEOTECHNICAL Report No. : 2024-R-278 by SLC Soils Consulting LTD FOR GARAGE UNDERPINNING = 12.74 LINEAR METRES, EX HOUSE UNDERPINNING = 50.74"
     },
     {
       "num": "30",
@@ -204,6 +204,15 @@
       "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
     },
     {
+      "num": "39",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "19 149046 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
+    },
+    {
       "num": "94",
       "street": "ZAPH",
       "type": "AVE",
@@ -220,15 +229,6 @@
       "permit": "26 196556 BLD",
       "status": "Examiner's Notice Sent",
       "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
-    },
-    {
-      "num": "39",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "19 149046 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
       "num": "10",
@@ -366,15 +366,6 @@
       "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
-      "num": "8",
-      "street": "ZEALAND",
-      "type": "RD",
-      "dir": "",
-      "permit": "25 229438 BLD",
-      "status": "Inspection",
-      "desc": "Proposal to construct an enclosed deck"
-    },
-    {
       "num": "30",
       "street": "ZORRA",
       "type": "ST",
@@ -391,6 +382,15 @@
       "permit": "15 189857 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
+    },
+    {
+      "num": "8",
+      "street": "ZEALAND",
+      "type": "RD",
+      "dir": "",
+      "permit": "25 229438 BLD",
+      "status": "Inspection",
+      "desc": "Proposal to construct an enclosed deck"
     },
     {
       "num": "105",
@@ -447,6 +447,15 @@
       "postal": "M1P",
       "unit": "",
       "reg": "STR-2312-HMYHHX"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
@@ -690,15 +699,6 @@
       "postal": "M1C",
       "unit": "",
       "reg": "STR-2605-FPKLBQ"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "3502",
-      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
