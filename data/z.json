@@ -222,15 +222,6 @@
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
-      "num": "94",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "26 150725 BLD",
-      "status": "Permit Issued",
-      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
-    },
-    {
       "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -238,6 +229,15 @@
       "permit": "23 196087 HVA",
       "status": "Inspection",
       "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
+    },
+    {
+      "num": "94",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "26 150725 BLD",
+      "status": "Permit Issued",
+      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
       "num": "105",
@@ -267,15 +267,6 @@
       "desc": "Plumbing - Proposal for interior alterations, finish basement and second floor addition"
     },
     {
-      "num": "30",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "20 171510 STS",
-      "status": "Inspection",
-      "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
-    },
-    {
       "num": "15",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -292,6 +283,15 @@
       "permit": "24 120983 BLD",
       "status": "Inspection",
       "desc": "Proposal for below grade entrance"
+    },
+    {
+      "num": "30",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "permit": "20 171510 STS",
+      "status": "Inspection",
+      "desc": "Drain - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility."
     },
     {
       "num": "15",
@@ -465,6 +465,15 @@
       "postal": "M8Z",
       "unit": "2204",
       "reg": "STR-2504-FFMHPP"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
@@ -690,15 +699,6 @@
       "postal": "M1C",
       "unit": "",
       "reg": "STR-2605-FPKLBQ"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "3502",
-      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
