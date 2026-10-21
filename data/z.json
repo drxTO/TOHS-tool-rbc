@@ -209,7 +209,7 @@
       "type": "DR",
       "dir": "",
       "permit": "26 240981 PLB",
-      "status": "Permit Issued",
+      "status": "Inspection",
       "desc": "Plumbing - Proposal for interior alterations to covert basement into legal unit."
     },
     {
@@ -463,6 +463,15 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
+      "unit": "3502",
+      "reg": "STR-2606-GWJHVV"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
       "unit": "2204",
       "reg": "STR-2504-FFMHPP"
     },
@@ -555,15 +564,6 @@
       "postal": "M8Z",
       "unit": "3407",
       "reg": "STR-2512-JFBVPZ"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "3502",
-      "reg": "STR-2606-GWJHVV"
     },
     {
       "num": "36",
