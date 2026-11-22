@@ -6,6 +6,15 @@
   ],
   "abp": [
     {
+      "num": "105",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "23 113202 BLD",
+      "status": "Inspection",
+      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
+    },
+    {
       "num": "11",
       "street": "ZAMBRI",
       "type": "WALK",
@@ -49,15 +58,6 @@
       "permit": "21 246581 HVA",
       "status": "Revision Issued",
       "desc": "Rev 01: As built revision HVAC - Proposal to construct first floor rear addition and second storey addition to existing Single Family dwelling, work to also include basement walkout and new rear deck"
-    },
-    {
-      "num": "105",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "23 113202 BLD",
-      "status": "Inspection",
-      "desc": "Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
       "num": "42",
@@ -213,15 +213,6 @@
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
-      "num": "11",
-      "street": "ZAHARIAS",
-      "type": "CRT",
-      "dir": "",
-      "permit": "26 196556 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
-    },
-    {
       "num": "94",
       "street": "ZAPH",
       "type": "AVE",
@@ -229,6 +220,15 @@
       "permit": "26 150725 BLD",
       "status": "Permit Issued",
       "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
+    },
+    {
+      "num": "11",
+      "street": "ZAHARIAS",
+      "type": "CRT",
+      "dir": "",
+      "permit": "26 196556 BLD",
+      "status": "Examiner's Notice Sent",
+      "desc": "Proposed As-built Gazebo in Rear Yard,  As-Built Carport in Front Yard, and as-Built House Decorative Elevation Changes"
     },
     {
       "num": "10",
@@ -366,6 +366,33 @@
       "desc": "HVAC - Proposed construction of new 2-storey sfd (369.55m2) with finished basement (156.35m2) & walk-out, integral 2-car garage, with front porch, rear deck, and two 2nd-storey balconys."
     },
     {
+      "num": "30",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "permit": "20 171510 BLD",
+      "status": "Inspection",
+      "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
+    },
+    {
+      "num": "42",
+      "street": "ZENITH",
+      "type": "DR",
+      "dir": "",
+      "permit": "23 227081 HVA",
+      "status": "Inspection",
+      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
+    },
+    {
+      "num": "10",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "permit": "24 170465 BLD",
+      "status": "Permit Issued",
+      "desc": "Proposal for interior alterations & conversion of a pitch roof to a flat roof for a sales centre"
+    },
+    {
       "num": "8",
       "street": "ZEALAND",
       "type": "RD",
@@ -384,15 +411,6 @@
       "desc": "Drain - Phase II - Proposal to construct two 24 storey apartment building towers with 3 storey connection podium and four (4) levels of underground parking garagewith total of 520 dwelling units (Tower A-228 units, Tower B-292 units) and indoor amenity area."
     },
     {
-      "num": "10",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "24 170465 BLD",
-      "status": "Permit Issued",
-      "desc": "Proposal for interior alterations & conversion of a pitch roof to a flat roof for a sales centre"
-    },
-    {
       "num": "3",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -400,24 +418,6 @@
       "permit": "15 189857 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposed master bedroom addition over garage on second floor."
-    },
-    {
-      "num": "42",
-      "street": "ZENITH",
-      "type": "DR",
-      "dir": "",
-      "permit": "23 227081 HVA",
-      "status": "Inspection",
-      "desc": "HVAC - Proposal for interior alterations, finish basement and second floor addition"
-    },
-    {
-      "num": "30",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "permit": "20 171510 BLD",
-      "status": "Inspection",
-      "desc": "Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units at top a 5 level below grade parking facility."
     }
   ],
   "str": [
@@ -463,6 +463,15 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
+      "unit": "613",
+      "reg": "STR-2605-GMRLBT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
       "unit": "2204",
       "reg": "STR-2504-FFMHPP"
     },
@@ -492,6 +501,15 @@
       "postal": "M8Z",
       "unit": "114",
       "reg": "STR-2510-HSKBPY"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "612",
+      "reg": "STR-2606-GLHBVT"
     },
     {
       "num": "36",
@@ -656,15 +674,6 @@
       "reg": "STR-2605-GPWFBT"
     },
     {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "613",
-      "reg": "STR-2605-GMRLBT"
-    },
-    {
       "num": "99",
       "street": "ZAPH",
       "type": "AVE",
@@ -681,15 +690,6 @@
       "postal": "M8Z",
       "unit": "3502",
       "reg": "STR-2606-GWJHVV"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "612",
-      "reg": "STR-2606-GLHBVT"
     },
     {
       "num": "36",
